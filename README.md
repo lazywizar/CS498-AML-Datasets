@@ -1,2 +1,2 @@
 # CS498-AML
-MCS-DS AML repository 
+MCS-DS AML datasets  
